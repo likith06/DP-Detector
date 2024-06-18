@@ -1,4 +1,4 @@
-# DP-Detector
+# DP-Analyser
 A Dark Pattern Detector in an ecommerce site is a tool or system designed to identify and flag manipulative or deceptive user interface elements and practices. These patterns are typically employed to coerce or mislead users into making decisions that may not be in their best interest, often benefiting the ecommerce site at the expense of user clarity or choice.
 
 Key features of a Dark Pattern Detector include:
